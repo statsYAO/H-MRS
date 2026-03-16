@@ -8,7 +8,7 @@ CLeaR 2026
 
 Files
 
-hmrs.py – implementation of the H-MRS algorithm
+hmrs.py – core implementation of the H-MRS algorithm
 
 simulate_data.py – synthetic data generation and evaluation metrics
 
